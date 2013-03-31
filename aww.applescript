@@ -1,0 +1,5 @@
+osascript -e "set Volume 10";
+open http://i.imgur.com/xCy4kVa.jpg http://i.imgur.com/N2yc2nl.jpg http://i.imgur.com/hVnMrJF.jpg http://imgur.com/JrrY3b8 http://i.imgur.com/OD8E2Hc.jpg http://i.imgur.com/dtFbe4P.jpg http://i.imgur.com/b1TbnkR.jpg http://i.imgur.com/4RlfOMr.jpg http://i.imgur.com/Isw9LEP.jpg http://assets.sbnation.com/assets/2389609/kingskid.gif http://i.imgur.com/N9liDcF.jpg http://i.imgur.com/DkdSZvz.jpg http://imgur.com/15OpQkE http://imgur.com/Y4b0F8j http://i.imgur.com/SvNNJBA.jpg http://imgur.com/dtlubt0 http://i.imgur.com/1WTCYWT.jpg http://i.imgur.com/6eTKbHU.gif http://imgur.com/9EFQJic http://i.imgur.com/zjOVx0B.jpg http://i.imgur.com/CpzvvUH.jpg http://i.imgur.com/z6gkoik.jpg http://imgur.com/GqrlIso http://imgur.com/OJrLY5K.jpg http://imgur.com/2rOJWBD;
+say cats cats kittens cats cute cats cats kittens cats cute cats cats kittens cats cute;
+osascript -e "set Volume 10";
+say cats cats kittens cats cute cats cats kittens cats cute cats cats kittens cats cute;
