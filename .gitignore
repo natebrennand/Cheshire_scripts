@@ -1,5 +1,8 @@
-bin/ 
-include/ 
-lib/
+
+bin
+include
+lib
 .Python
 credentials.py
+*.pyc
+
