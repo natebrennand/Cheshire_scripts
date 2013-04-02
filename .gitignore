@@ -6,5 +6,4 @@ lib
 credentials.py
 *.pyc
 *.swp
-*_*.applescript
 
